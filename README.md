@@ -1,2 +1,2 @@
 # first-repo-2021
-desc
+pretty cool amirite
